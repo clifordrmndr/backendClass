@@ -8,7 +8,7 @@ exports.datas = {
         {
           id:1,
           nim:105021810028,
-          name:'Mengko, Yoel Roring',
+          name:'Roring, Yoel Mengko',
           phone:"+62 813-1774-3660"
         },
         {
